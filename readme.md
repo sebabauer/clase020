@@ -136,3 +136,4 @@ Obtener:
 ~~~ruby
 resultado = [[1, "lunes"], [2, "martes"], [3, "miércoles"], [9, "jueves"], [12, "viernes"], [31, "sábado"], ["domingo", "domingo"]]
 ~~~
+# clase020
